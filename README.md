@@ -175,7 +175,7 @@ For full control + pro results → Stable Diffusion + ControlNet.
 
 For touch-ups → Photoshop (Generative Fill), Topaz, Remini.
 ## Example:
-![prompt drawing](https://github.com/user-attachments/assets/974636ea-da76-42cb-8247-5d97ee92df48)
+<img width="683" height="1024" alt="prompt drawing" src="https://github.com/user-attachments/assets/974636ea-da76-42cb-8247-5d97ee92df48" /> 
 
 - Prompt: "Take this classic realism portrait and reproduce it as a digital anime-style illustration. Preserve the character’s facial expression, pose, and key features. Apply anime-style characteristics such as large expressive eyes, clean linework, simplified shading, and vibrant but harmonious colors. Retain the original composition and lighting as much as possible while giving it a modern, stylized anime aesthetic suitable for digital art or character concept design."
 
